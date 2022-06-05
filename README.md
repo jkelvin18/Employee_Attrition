@@ -1,4 +1,6 @@
-# IBM HR Analytics Employee Attrition & Performance dataset from the Kaggle.
+# IBM HR Analytics Employee Attrition & Performance dataset from the Kaggle
+
+Dataset: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 In this challenge, it was proposed to predict which employees are most likely to leave their jobs.  
 
